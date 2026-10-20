@@ -1,0 +1,20 @@
+PASS content schema and every source range
+PASS all 24 PDFs exist and page crosswalk covers slide pages
+PASS lesson links, prerequisites, term fields, question uniqueness
+PASS paper 1 has 40 unique MCQ + 3 essays, all 23 topics
+PASS paper 2 has 40 unique MCQ + 3 essays, all 23 topics
+PASS paper 3 has 40 unique MCQ + 3 essays, all 23 topics
+PASS presets actually choose different questions and essays
+PASS scoring all correct, all blank, mixed and option permutation
+PASS backup round-trip preserves progress, notes, wrong answers, active exam
+PASS malformed backups and poisoned map keys are rejected
+PASS stored result grade is recomputed rather than trusted
+PASS updating content preserves IDs and can add a new topic
+PASS invalid source pages and missing question explanations rejected
+PASS render dashboard, every chapter and every lesson
+PASS render dictionary, practice, sources, review, settings
+PASS exam view hides answers and models, submit yields 40/40 and result
+PASS expired exam is automatically submitted, data roundtrips
+PASS wrong answers enter review queue, correct retry clears queue and keeps history
+PASS HTML escaping and search match Vietnamese accents
+RESULT 19 test groups passed. DOM smoke tests are not browser visual QA or Windows runtime tests.

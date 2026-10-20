@@ -1,0 +1,147 @@
+[
+  {
+    "file": "01-motivation(1).pdf",
+    "pages": 44,
+    "empty": [
+      25,
+      27,
+      28
+    ]
+  },
+  {
+    "file": "02-elastic-computing(1).pdf",
+    "pages": 33,
+    "empty": []
+  },
+  {
+    "file": "03-clouds(1).pdf",
+    "pages": 31,
+    "empty": []
+  },
+  {
+    "file": "04-infrastructure(1).pdf",
+    "pages": 54,
+    "empty": [
+      3,
+      4,
+      5,
+      6,
+      22,
+      25
+    ]
+  },
+  {
+    "file": "05-virtual-machines(1).pdf",
+    "pages": 70,
+    "empty": [
+      10,
+      11
+    ]
+  },
+  {
+    "file": "06-containers(1).pdf",
+    "pages": 37,
+    "empty": []
+  },
+  {
+    "file": "07-virtual-networks(1).pdf",
+    "pages": 82,
+    "empty": []
+  },
+  {
+    "file": "08-virtual-storage(1).pdf",
+    "pages": 35,
+    "empty": []
+  },
+  {
+    "file": "09-automation(1).pdf",
+    "pages": 68,
+    "empty": [
+      16,
+      18,
+      60
+    ]
+  },
+  {
+    "file": "1. The Cloud Computing Book The Future of Computing Explained(1).pdf",
+    "pages": 288,
+    "empty": [
+      1,
+      2
+    ]
+  },
+  {
+    "file": "10-orchestration(1).pdf",
+    "pages": 67,
+    "empty": []
+  },
+  {
+    "file": "11-mapreduce(1).pdf",
+    "pages": 50,
+    "empty": []
+  },
+  {
+    "file": "12-microservices(1).pdf",
+    "pages": 67,
+    "empty": []
+  },
+  {
+    "file": "13-controllers(1).pdf",
+    "pages": 54,
+    "empty": []
+  },
+  {
+    "file": "14-serverless(1).pdf",
+    "pages": 30,
+    "empty": []
+  },
+  {
+    "file": "15-devops(1).pdf",
+    "pages": 44,
+    "empty": []
+  },
+  {
+    "file": "16-edge-computing(1).pdf",
+    "pages": 25,
+    "empty": [
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "file": "17-security-privacy(1).pdf",
+    "pages": 47,
+    "empty": []
+  },
+  {
+    "file": "18-handling-complexity(1).pdf",
+    "pages": 4,
+    "empty": []
+  },
+  {
+    "file": "Function_as_a_Service(2).pdf",
+    "pages": 62,
+    "empty": []
+  },
+  {
+    "file": "NT533-L0 Introduction Project Instruction 2026(2).pdf",
+    "pages": 11,
+    "empty": []
+  },
+  {
+    "file": "NT533-L10 Introduction to Quantum Cloud Computing(1).pdf",
+    "pages": 21,
+    "empty": []
+  },
+  {
+    "file": "slideset_01(2).pdf",
+    "pages": 69,
+    "empty": []
+  },
+  {
+    "file": "slideset_02(2).pdf",
+    "pages": 72,
+    "empty": []
+  }
+]

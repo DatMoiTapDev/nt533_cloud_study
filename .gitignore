@@ -1,0 +1,12 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.openai/
+installer-output/
+*.zip
+*.tar.gz
+CloudLab-sao-luu-*.json
+CloudLab-du-lieu-goc.json

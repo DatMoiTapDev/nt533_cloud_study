@@ -1,0 +1,12 @@
+{
+  "name": "cloudlab-hoc-de-hieu",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ứng dụng học Điện toán đám mây bằng tiếng Việt",
+  "scripts": {
+    "test": "node tools/test.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
